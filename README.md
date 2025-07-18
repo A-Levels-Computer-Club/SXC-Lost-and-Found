@@ -28,7 +28,7 @@ I built this app as one of my first projects to learn by building. I learned the
 
 This project is completely open source and I encourage anyone to fork, adapt, or contribute to it for their own school or community. I’m open to suggestions, feedback, and ideas!
 
-📩 Contact me at **[contact@shrijanpoudel.com.np](mailto:contact@shrijanpoudel.com.np)**  
+📩 Contact me at **[alcc@sxc.edu.np](mailto:alcc@sxc.edu.np)**  
 ---
 
 ## 📸 Screenshots
